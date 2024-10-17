@@ -1,6 +1,0 @@
-{
-    "go.toolsEnvVars": {
-        "GOROOT": "/usr/local/go1.18.10"
-    },
-    "go.goroot": "/usr/local/go1.18.10"
-}
