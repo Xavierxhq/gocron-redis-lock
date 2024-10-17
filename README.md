@@ -1,12 +1,12 @@
 # redislock
 
-[![CI State](https://github.com/go-co-op/gocron-redis-lock/actions/workflows/go_test.yml/badge.svg?branch=main&event=push)](https://github.com/go-co-op/gocron-redis-lock/actions)
-![Go Report Card](https://goreportcard.com/badge/github.com/go-co-op/gocron-redis-lock) [![Go Doc](https://godoc.org/github.com/go-co-op/gocron-redis-lock?status.svg)](https://pkg.go.dev/github.com/go-co-op/gocron-redis-lock)
+[![CI State](https://github.com/Xavierxhq/gocron-redis-lock/actions/workflows/go_test.yml/badge.svg?branch=main&event=push)](https://github.com/Xavierxhq/gocron-redis-lock/actions)
+![Go Report Card](https://goreportcard.com/badge/github.com/Xavierxhq/gocron-redis-lock) [![Go Doc](https://godoc.org/github.com/Xavierxhq/gocron-redis-lock?status.svg)](https://pkg.go.dev/github.com/Xavierxhq/gocron-redis-lock)
 
 ## install
 
 ```
-go get github.com/go-co-op/gocron-redis-lock/v2
+go get github.com/Xavierxhq/gocron-redis-lock/v2
 ```
 
 ## usage
@@ -20,10 +20,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-co-op/gocron/v2"
+	"github.com/Xavierxhq/gocron/v2"
 	"github.com/redis/go-redis/v9"
 
-	redislock "github.com/go-co-op/gocron-redis-lock/v2"
+	redislock "github.com/Xavierxhq/gocron-redis-lock/v2"
 )
 
 func main() {
@@ -62,7 +62,7 @@ import (
 
 	"github.com/redis/go-redis/v9"
 
-	redislock "github.com/go-co-op/gocron-redis-lock/v2"
+	redislock "github.com/Xavierxhq/gocron-redis-lock/v2"
 )
 
 func main() {

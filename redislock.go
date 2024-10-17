@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/go-co-op/gocron/v2"
+	"github.com/Xavierxhq/gocron/v2"
 	"github.com/go-redsync/redsync/v4"
 	"github.com/go-redsync/redsync/v4/redis/goredis/v9"
 	"github.com/redis/go-redis/v9"
